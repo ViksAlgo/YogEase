@@ -79,7 +79,7 @@ const Login = () => {
                 />
                 {error && <p className="text-red-500">{error}</p>}
                 <p className="mb-4">
-                    Don't have an account?{' '}
+                    Don&apos;t have an account?{' '}
                     <Link href="/register" className="text-blue-600">
                         Register here.
                     </Link>

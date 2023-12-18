@@ -15,11 +15,11 @@ const About = () => {
                 <h2 className="text-3xl font-bold mb-4">Testimonials</h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                     <div className="bg-white shadow rounded-lg p-6">
-                        <p className="text-lg text-gray-600 mb-4">"YogEase has changed my life. The instructors are top-notch and the community is incredibly supportive."</p>
+                        <p className="text-lg text-gray-600 mb-4">&quot;YogEase has changed my life. The instructors are top-notch and the community is incredibly supportive.&quot;</p>
                         <p className="text-lg text-black font-bold">- Harshit Suneja</p>
                     </div>
                     <div className="bg-white shadow rounded-lg p-6">
-                        <p className="text-lg text-gray-600 mb-4">"I love the variety of classes offered. There's something for everyone at YogEase."</p>
+                        <p className="text-lg text-gray-600 mb-4">&quot;I love the variety of classes offered. There&apos;s something for everyone at YogEase.&quot;</p>
                         <p className="text-lg text-black font-bold">- Vykas</p>
                     </div>
                 </div>
